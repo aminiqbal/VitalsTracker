@@ -2,7 +2,7 @@ Staff:
 ----------------------------------------
 <p>
 Primary author(s):
-  <ul>Amin, Iqbal (twosixfoursix@gmail.com)</ul>
+  <ul>Amin, Iqbal (amin.iqbal@tuta.io)</ul>
 </p>
 
 <p>
@@ -24,7 +24,7 @@ Screenshots:
 Description:
 ----------------------------------------
 <p>
-This is an application designed to track blood glucose levels in patients with type II diabetes. This runs on the Android operating system (Android 7.0 and up). The application is made mainly to further research into the Android development environment and shared so that everyone may share improvements and learn from each other.
+This is an application designed to track vital stat levels in patients. This runs on the Android operating system (Android 7.0 and up). The application is made mainly for medical professionals and caregivers.
 </p>
 
 Application Behavior:
