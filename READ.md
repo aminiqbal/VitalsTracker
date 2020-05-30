@@ -17,6 +17,8 @@ Screenshots:
   <img src="/.github/02.png" width="199" height="400">
   <img src="/.github/03.png" width="199" height="400">
   <img src="/.github/04.png" width="199" height="400">
+  <img src="/.github/05.png" width="199" height="400">
+  <img src="/.github/06.png" width="199" height="400">
 </details>
 
 Description:
